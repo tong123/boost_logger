@@ -1,2 +1,3 @@
 # boost_logger
 基于boost实现的日志类
+添加相应的boost头文件和boost库，即可以直接使用
